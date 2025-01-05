@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Niko 👋
+
+I am studying and working at [TUW-GEO](https://github.com/TUW-GEO).
+Currently working in Remote Sensing and Earth Observation.
+
+### Stuff I know:...
+![Static Badge](https://img.shields.io/badge/typst-%23239DAD?style=for-the-badge&logo=typst&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### Stuff I am trying to know:...
+![Static Badge](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 
 <!--
 **npikall/npikall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,11 @@ Currently working in Remote Sensing and Earth Observation.
 ### Stuff I know:...
 ![Static Badge](https://img.shields.io/badge/typst-%23239DAD?style=for-the-badge&logo=typst&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/LaTex-%23008080?style=for-the-badge&logo=latex&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sklearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Make-%23A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+
 
 
 ### Stuff I am trying to know:...

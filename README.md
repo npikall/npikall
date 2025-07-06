@@ -1,17 +1,16 @@
-## Hi there, I'm Niko 👋
+## Hi there, I'm Niko
 
-I am studying and working at [TUW-GEO](https://github.com/TUW-GEO).
 Currently working in Remote Sensing and Earth Observation.
 
 ### Stuff I know:...
 ![Static Badge](https://img.shields.io/badge/typst-%23239DAD?style=for-the-badge&logo=typst&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/LaTex-%23008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sklearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<!-- ![Static Badge](https://img.shields.io/badge/LaTex-%23008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Make-%23A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Static Badge](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Static Badge](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white) -->
 
-### Stuff I am trying to know:...
+### Stuff I want to learn:...
 ![Static Badge](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 

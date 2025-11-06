@@ -1,30 +1,37 @@
-## Hi there, I'm Niko
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Currently working in Remote Sensing and Earth Observation.
+###
 
-### Stuff I know:...
-![Static Badge](https://img.shields.io/badge/typst-%23239DAD?style=for-the-badge&logo=typst&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sklearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-<!-- ![Static Badge](https://img.shields.io/badge/LaTex-%23008080?style=for-the-badge&logo=latex&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Make-%23A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Static Badge](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white) -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
+</div>
 
-### Stuff I want to learn:...
-![Static Badge](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
-![Static Badge](https://img.shields.io/badge/raspberrypi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+###
 
-<!--
-**npikall/npikall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=npikall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/npikall/npikall/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/npikall/npikall/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/npikall/npikall/output/pacman-contribution-graph.svg">
+</picture>
+
+###

@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npikall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/npikall/npikall/output/snake.svg" alt="Snake animation" />
 
 ###
